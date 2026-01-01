@@ -28,7 +28,7 @@ oApp = new qApp {
         oQML.loadContent(getqml())
         show()
     }  
-    if isMainSourceFile {
+    if isMainSourceFile() {
         startApp()
     }
 }
