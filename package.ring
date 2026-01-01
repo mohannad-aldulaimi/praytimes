@@ -30,7 +30,7 @@ aPackageInfo = [
 		"main.ring",
 		"screenshots/1.jpg",
 		"screenshots/2.jpg",
-		"screenshots/3.jpg",
+		"screenshots/3.jpg"
 	],
 	:ringfolderfiles = 	[
 		"applications/RingQML/pray_times/pray_times.ring",
