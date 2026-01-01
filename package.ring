@@ -1,7 +1,7 @@
 aPackageInfo = [
 	:name = "The pray time application",
 	:description = "The pray time application made using the Ring programming language and RingQML",
-	:folder = "praytime",
+	:folder = "praytimes",
 	:developer = "Ph.T, Dev. Mohannad Alayash",
 	:email = "mohannadazazalayash@gmail.com",
 	:license = "MIT License",
@@ -24,7 +24,6 @@ aPackageInfo = [
 			:version = "1.0",
 			:providerusername = ""
 		]
-		
 	],
 	:files = 	[
 		"README.md",

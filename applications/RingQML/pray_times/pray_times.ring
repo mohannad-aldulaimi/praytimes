@@ -10,7 +10,7 @@
     load 'qml/SettingsContent.ring'
     load 'qml/PrayerDelegate.ring'
 
-new qApp {
+oApp = new qApp {
     oQuick = new qQuickview() {
         setWidth(400)
         setHeight(800)
@@ -27,10 +27,13 @@ new qApp {
         # Load the main QML
         oQML.loadContent(getqml())
         show()
+    }  
+    if isMainSourceFile {
+        startApp()
     }
-    exec()
 }
-
+func startApp
+    oApp.exec()
 func getBgImages
     return [
         'images/1.jpg',
