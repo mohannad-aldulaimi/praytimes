@@ -33,19 +33,19 @@ aPackageInfo = [
 		"screenshots/3.jpg",
 	],
 	:ringfolderfiles = 	[
-		"applications/RingQML/pray_time/pray_times.ring",
-		"applications/RingQML/pray_time/getTimesFromTables.ring",
-		"applications/RingQML/pray_time/tables/table.ring",
-		"applications/RingQML/pray_time/qml/IconShape.ring",
-		"applications/RingQML/pray_time/qml/main.ring",
-		"applications/RingQML/pray_time/qml/MinuteCircle.ring",
-		"applications/RingQML/pray_time/qml/PrayerDelegate.ring",
-		"applications/RingQML/pray_time/qml/SettingsContent.ring",
-		"applications/RingQML/pray_time/images/1.jpg",
-		"applications/RingQML/pray_time/images/2.jpg",
-		"applications/RingQML/pray_time/images/3.jpg",
-		"applications/RingQML/pray_time/images/4.jpg",
-		"applications/RingQML/pray_time/images/5.jpg"
+		"applications/RingQML/pray_times/pray_times.ring",
+		"applications/RingQML/pray_times/getTimesFromTables.ring",
+		"applications/RingQML/pray_times/tables/table.ring",
+		"applications/RingQML/pray_times/qml/IconShape.ring",
+		"applications/RingQML/pray_times/qml/main.ring",
+		"applications/RingQML/pray_times/qml/MinuteCircle.ring",
+		"applications/RingQML/pray_times/qml/PrayerDelegate.ring",
+		"applications/RingQML/pray_times/qml/SettingsContent.ring",
+		"applications/RingQML/pray_times/images/1.jpg",
+		"applications/RingQML/pray_times/images/2.jpg",
+		"applications/RingQML/pray_times/images/3.jpg",
+		"applications/RingQML/pray_times/images/4.jpg",
+		"applications/RingQML/pray_times/images/5.jpg"
 	],
 	:windowsfiles = 	[
 
