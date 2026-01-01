@@ -15,5 +15,5 @@ func main
        https://mohannad-aldulaimi.github.io
    ==============================================
 "
-	chdir(exefolder()+'applications/RingQML/pray_times')
+	chdir(exefolder()+'../applications/RingQML/pray_times')
 	ring_state_main("pray_times.ring")
